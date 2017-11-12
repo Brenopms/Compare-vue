@@ -46,7 +46,7 @@ To deploy a Vue Cli project two options are Recommended: https://medium.com/@mwo
 
 ## Authors
 
-* **Breno Silva** - *Initial work* - [PurpleBooth](https://github.com/Brenopms)
+* **Breno Silva** - *Initial work* - [Brenopms](https://github.com/Brenopms)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
