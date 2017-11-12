@@ -78,6 +78,8 @@ methods: {
 @import '../node_modules/bulma/bulma.sass'
 @import 'mq'
 
+
+
 .navbar
   background-color: #383838
   a:hover
